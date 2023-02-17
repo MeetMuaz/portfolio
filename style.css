@@ -121,6 +121,7 @@ body{
 #home h1{
     font-size: 3rem;
     color: #ffffff;
+    font-weight: 400;
 }
 .home-img-wrapper{
     display: flex;
