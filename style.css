@@ -17,6 +17,10 @@ body{
     padding: 0 5%;
 }
 
+.f-d{
+    background-color: rgb(147, 255, 47);
+}
+
 /* 2 css grid */
 .grid-container-2{
     display: grid;
