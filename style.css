@@ -13,7 +13,7 @@ body{
     background-color: #252525;
     color: #676565;
     font-family: 'Roboto Sans Semi Condensed', sans-serif;
-
+    font-weight: 300;
     padding: 0 5%;
 }
 
@@ -121,7 +121,6 @@ body{
 #home h1{
     font-size: 3rem;
     color: #ffffff;
-    font-weight: 400;
 }
 .home-img-wrapper{
     display: flex;
