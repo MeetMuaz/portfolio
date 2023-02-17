@@ -12,7 +12,7 @@ html {
 body{
     background-color: #252525;
     color: #676565;
-    font-family: 'Encode Sans Semi Condensed', sans-serif;
+    font-family: 'Roboto Sans Semi Condensed', sans-serif;
 
     padding: 0 5%;
 }
@@ -109,6 +109,7 @@ body{
     border: 0;
     color: #ffffff;
     font-size: 2rem;
+    outline: none;
 }
 
 .show-mobile-nav{
